@@ -15,7 +15,7 @@ Membership Pro has plugins to allow you to synscronize subscriber's data which i
 ## Joomla User Profile 
 To synchronize data with **Joomla User Profile**, please follow the steps below:
 1. Go to Extensions -> Plugins Manager, find and publish the plugin **OS Membership - Userprofile plugin**
-2. Go to **Membership Pro -> Custom Fields**, click on the custom field you want to synchronize data to edit, look at **Joomla Profile Field Mappping** property, select the corresponding field in **Joomla User Profile** which will be synchronized with this field. Save it.
+2. Go to **Membership Pro -> Custom Fields**, click on the custom field you want to synchronize data to edit, look at **Joomla Profile Field Mapping** property, select the corresponding field in **Joomla User Profile** which will be synchronized with this field. Save it. (Exception: Membership Pro maps its "email" field with the Joomla user database by default--so you don't have to do mapping for this field.)
 3. Repeat step #2 for all other fields you want
 
 ## Community Builder
