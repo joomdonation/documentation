@@ -97,6 +97,12 @@ If you want the system to send the third remember email to subscribers of this p
 </td>
 </tr>
 <tr>
+<td><strong>Access</strong></td>
+<td>
+Select the level of user that you want to see the plan. If you want all users to see the plan (unrestricted viewing), select "Public".
+</td>
+</tr>
+<tr>
 <td><strong>Enable Renewal</strong></td>
 <td>
 <p>You should set this field to <strong>Yes</strong> so that users can renew their subscription before/when/after it is expired. There are only two cases you should set it to <strong>No :</strong></p>
