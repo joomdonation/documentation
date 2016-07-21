@@ -22,7 +22,7 @@ To allow users to see and sign up for your subscription plans, you can use the f
 
 Beside using menu items, you can also display subscription plans to end-users use **Membership Plans** module. Below are the parameters which you can setup when using the module:
 1. **Layout**: Select the layout you want to use to display plans from module. There are 3 layouts available: **Default Layout**, **Columns Layout** and **Pricing Table Layout**.
-2. **Plan Ids**: Enter Ids of the subscription plans you want to display in the module, command separated. For example, if you want to display two modules with ID = 1 and ID = 3, just enter **1,3** into this parameter. If you leave this parameter empty, all the published plans will be displayed
+2. **Plan Ids**: Enter Ids of the subscription plans you want to display in the module, comma separated. For example, if you want to display two modules with ID = 1 and ID = 3, just enter **1,3** into this parameter. If you leave this parameter empty, all the published plans will be displayed.
 
 ![Module Parameters](module-params.png)
 
