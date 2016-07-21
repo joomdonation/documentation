@@ -28,7 +28,7 @@ Beside using menu items, you can also display subscription plans to end-users us
 
 ## Display Subscription Plans in a Joomla article
 
-If you want to display subscription plans in a Joomla aritlc, you can use **Membership Plans content plugin**
+If you want to display subscription plans in a Joomla article, you can use **Membership Plans content plugin**
 
 1. Go to **Extensions -> Plugins**, find the plugin **Membership Plans content plugin**, click on it to edit. Choose the layout you want (default, columns or pricing table layout) in **Layout** parameter. Remember to change the Status to **Enabled**, then press Save button in the toolbar
 2. Now, edit the article you want to display subscription plans, using the syntax below:
